@@ -1,6 +1,5 @@
 # Jobverze_workportfolio
 
-# Farmer Customer Connect
 
 ## About the project:
 The main objective of this project is to provide an online platform for connecting farmers and customers where customers can purchase goods from farmers.
