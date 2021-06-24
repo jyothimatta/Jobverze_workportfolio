@@ -8,22 +8,7 @@ The main objective of this project is to provide an online platform for the job 
 Job hunting, job seeking, or job searching is the act of looking for employment, due to unemployment, underemployment, discontent with a current position, or a desire for a better position. JobVerz is a web application designed for job seekers to identify their skills and skills to be known to get a job in their chosen career path. 
 As a part of the Integration Team, we tried to find out the skills from the given job description and stored that helps to retrieve skills for a particular job role at the time of job search and skills to be learned to get into the chosen profession. We started to work on a mapper API which will act as a bridge between skills and job postings to provide a list of skills present in the posting when compared to the skills we retrieved beforehand. Additionally, by keeping track of all the retrieved skills, we can come up with insights into the present job market to predict trending skills.
 
-## Problem facing till now:
-We had a little problem with the implementation of CSS but we completed the CSS by applying bootstrap.
-We faced a few problems related to posting and fetching data to and from the database, but we could solve the issues by going through various online resources.
-Fetching the product details from the database was a little difficult but, we were able to complete data fetching successfully
-We faced a little problem while trying to add image to database and we had to go through a lot of resources to solve the issue
-Deciding on the right CSS styling took a lot of time and it can always be improved
 
-## Technologies that we are learning:
-
-* Frontend: React
-* Backend: Node, Express and MongoDB
-
-## Testing tool:
-* Jest
-* Code Versioning Systems:
-* Git and GitHub
 
 ## Sprint 1: Learnings
 * Naive approach to identify the skills in a given job description which are present in the given list of various skills. Any spelling mistakes that were present in the job description were taken care using spellchecker library in python. We were able to attain an accuracy of close to 50% using this approach and measures were taken to improve this in further sprints.
