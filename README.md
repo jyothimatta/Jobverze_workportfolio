@@ -15,10 +15,10 @@ As a part of the Integration Team, we tried to find out the skills from the give
 
 
 ## Sprint 2: Learnings
-*To further improve the accuracy of the initial version of the algorithm, NLP techniques like lemmatization, stemming, word2vec, bag of words approaches were studied and applied. Also, data of job postings and skills were scraped from the pdf files from skillsfuture website.
+* To further improve the accuracy of the initial version of the algorithm, NLP techniques like lemmatization, stemming, word2vec, bag of words approaches were studied and applied. Also, data of job postings and skills were scraped from the pdf files from skillsfuture website.
 
 ## Sprint 3: Learnings
-*The data of all the job postings that were present in the top-3 fortune companies (Walmart, Amazon, Exonmobil) careers site were collected. Manually identified the skills present in some of the job descriptions to test the accuracy of the existing model. Research was done to develop a machine learning algorithm to extract skills from the job posting.
+* The data of all the job postings that were present in the top-3 fortune companies (Walmart, Amazon, Exonmobil) careers site were collected. Manually identified the skills present in some of the job descriptions to test the accuracy of the existing model. Research was done to develop a machine learning algorithm to extract skills from the job posting.
 
 ## Sprint 4: Learnings
 * Developed an algorithm using fuzzywuzzy library of python to match the skills from job description to those present in the EMSI skills list. Using this algorithm we were able to extract the skills with an accuracy of 63%.
