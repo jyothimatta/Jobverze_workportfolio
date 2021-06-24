@@ -43,7 +43,7 @@ Deciding on the right CSS styling took a lot of time and it can always be improv
 
 ## Sprint 6: Learning
 * Researched on GPT-3 (Generative Pretrained Transformer 3) model and NER(Named Entity Recognition) model to extract skills from a job posting. We weren’t able to use the GPT-3 model due to some limitations. We started training the NER model by manually annotating some job postings. Also experimented with stemming and lemmatization to format the skills taxonomy.
-# Impediments : 
+Impediments : 
 * Manually annotating the data was very difficult and needed to find a way to automate the process.
 * Prevent noise and format the retrieved skills.
 
